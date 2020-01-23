@@ -11,6 +11,7 @@ tagline:
 description:      ""
 url:              
 baseurl:          https://bolducp.github.io/paigefink.github.io/
+# baseurl:          / # for development
 
 
 paginate:         5

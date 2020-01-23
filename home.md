@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
+<h1 class="page-title">{{ page.title }}</h1>
 
-
-<img src="https://bolducp.github.io/paigefink.github.io/assets/images/paige_07_19.jpg">
+<img class="headshot" src="https://bolducp.github.io/paigefink.github.io/assets/images/paige_07_19.jpg">
 
 <p class="message">
   Hi! I'm Paige. I'm currently working on a Masters degree in Computational Linguistics at the University of Washington, where I'm a member of the <a href="https://clmbr.shane.st/">CLMBR research group</a>.
