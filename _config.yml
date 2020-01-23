@@ -10,7 +10,7 @@ title:            Hyde
 tagline:          'A Jekyll theme'
 description:      ""
 url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl:          https://bolducp.github.io/contact.html
 
 author:
   name:           'Mark Otto'
