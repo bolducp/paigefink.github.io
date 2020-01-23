@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -276,6 +276,7 @@ tbody tr:nth-child(odd) th {
   padding: 1rem;
   color: #717171;
   background-color: #f9f9f9;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 
 
@@ -331,6 +332,9 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+}
+.page-title {
+  font-family: 'Roboto Mono', monospace;
 }
 
 /* Blog post or page title */
