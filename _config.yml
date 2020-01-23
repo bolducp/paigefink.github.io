@@ -7,7 +7,7 @@ highlighter:      pygments
 
 # Setup
 title:            Paige Finkelstein
-tagline:          'personal site'
+tagline:          
 description:      ""
 url:              
 baseurl:          https://bolducp.github.io/paigefink.github.io/
