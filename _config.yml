@@ -6,15 +6,12 @@ highlighter:      pygments
 
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            Paige Finkelstein
+tagline:          'personal site'
 description:      ""
-url:              http://hyde.getpoole.com
-baseurl:          https://bolducp.github.io/contact.html
+url:              
+baseurl:          https://bolducp.github.io/paigefink.github.io/
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
@@ -22,4 +19,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://bolducp.github.io/paigefink.github.io/
