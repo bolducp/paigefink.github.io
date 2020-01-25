@@ -1,4 +1,4 @@
-[personal website](www.paigefinkelstein.com)
+[personal website](http://paigefinkelstein.com/)
 
 
 ## Hyde
